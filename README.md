@@ -16,9 +16,9 @@ HTML tags, p, h, ul, ol, li, em. strong, a, img, div, and span will be used.
 * Press click here below or copy the link provided below and paste it in your browser.
 
 [Click here](https://github.com/chrisberry321/code_review.git)
+https://github.com/chrisberry321/code_review.git
 
 All links to _Bootstrap_ and _jQuery_ are in the current folders, but if you are having troubles loading them clone the repository and download the uncompressed files and try linking to them.
-If you have any such troubles feel free to contact me at chrisberry321@yahoo.com and I will help if I can.
 
 ## Known Bugs
 No known issues at this time.
